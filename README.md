@@ -9,6 +9,13 @@ I am currently learning cybersecurity step by step, focusing on building strong 
 
 ---
 
+## 💼 Experience
+
+* Technical Specialist at Apple
+* Former Consultation Agent at Geek Squad
+
+---
+
 ## 🎯 Learning Goals
 - Cybersecurity Fundamentals  
 - Networking Basics  
@@ -28,14 +35,24 @@ I am currently learning cybersecurity step by step, focusing on building strong 
 ## 🧠 Skills (In Progress)
 - Python  
 - Linux  
-- Networking Basics  
+- Networking Basics
+- Cybersecurity Fundamentals
+- Nmap | Wireshark | Burp Suite
 
 ---
+## 🔥 Projects (Coming Soon)
 
+* 🔍 Network Port Scanner
+* 🌐 Web Vulnerability Scanner
+* 🛡️ Intrusion Detection System
+
+---
 ## 🎯 Goal
 To become a professional Cybersecurity Engineer in the future by learning step by step and building real skills.
 
 ---
+
+
 
 ## 📫 Contact
 📧 elzoukigroup82@gmail.com  
@@ -44,3 +61,6 @@ To become a professional Cybersecurity Engineer in the future by learning step b
 ---
 
 ⭐ Always learning. Always improving.
+
+
+
