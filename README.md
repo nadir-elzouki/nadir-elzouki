@@ -1,31 +1,46 @@
 # 👋 Hi, I'm Nadir Elzouki  
 
-🔐 Cybersecurity Enthusiast  
-
----
-
-## 💼 Experience
-- Technical Specialist at Apple  
-- Former Consultation Agent at Geek Squad  
+🔐 Cybersecurity Learner | Ethical Hacking Beginner  
 
 ---
 
 ## 🚀 About Me
-Passionate about cybersecurity, ethical hacking, and protecting systems.  
+I am currently learning cybersecurity step by step, focusing on building strong fundamentals in networking, Linux, and programming.
 
 ---
 
-## 🧠 Skills
+## 🎯 Learning Goals
+- Cybersecurity Fundamentals  
+- Networking Basics  
+- Linux Basics  
+- Python for Security  
+
+---
+
+## 🧪 Cybersecurity Platforms
+- 🧪 TryHackMe: https://tryhackme.com/p/nadirelzouki82  
+- 🔴 Hack The Box: https://app.hackthebox.com/profile/Nelzouki  
+- 📚 Cybrary: https://app.cybrary.it/profile  
+- 🎓 pwn.guide: Cybersecurity learning platform  
+
+---
+
+## 🧠 Skills (In Progress)
 - Python  
 - Linux  
-- Networking  
-- Cybersecurity  
+- Networking Basics  
+
+---
+
+## 🎯 Goal
+To become a professional Cybersecurity Engineer in the future by learning step by step and building real skills.
 
 ---
 
 ## 📫 Contact
 📧 elzoukigroup82@gmail.com  
+🌐 Portfolio: https://nelzouki22.github.io  
 
 ---
 
-⭐ Always learning. Always securing.
+⭐ Always learning. Always improving.
