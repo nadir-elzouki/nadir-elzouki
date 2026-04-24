@@ -25,10 +25,10 @@ I am currently learning cybersecurity step by step, focusing on building strong 
 ---
 
 ## 🧪 Cybersecurity Platforms
-- 🧪 TryHackMe: https://tryhackme.com/p/nadirelzouki82  
-- 🔴 Hack The Box: https://app.hackthebox.com/profile/Nelzouki  
-- 📚 Cybrary: https://app.cybrary.it/profile  
-- 🎓 pwn.guide: Cybersecurity learning platform  
+- 🧪 TryHackMe:nadirelzouki82
+- 🔴 Hack The Box: Nelzouki  
+- 📚 Cybrary: @Nelzouki 
+- 🎓 pwn.guide:@Nelzouki  
 
 ---
 
